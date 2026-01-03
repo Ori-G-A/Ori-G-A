@@ -46,7 +46,7 @@
 |----------|-------------|-----------------|---------|
 | **[COL-MEN-STAT](https://github.com/Ori-G-A/COL_MEN_STAT)** | Análisis de cobertura y deserción educativa en Colombia | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python)  ![Scikit-Learn](https://img.shields.io/badge/-SKLearn-F7931E?style=flat-square) ![PowerBI](https://img.shields.io/badge/-PowerBI-F2C811?style=flat-square&logo=powerbi) | 🔄 En curso|
 | **[Puestos Sensibles](https://github.com/LuisJRubioH/Puestos_Sensibles_Corrupcion)** | Caracterización de cargos públicos vulnerables a corrupción | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python) ![Scikit-Learn](https://img.shields.io/badge/-SKLearn-F7931E?style=flat-square) ![PowerBI](https://img.shields.io/badge/-PowerBI-F2C811?style=flat-square&logo=powerbi) | 🔄 En curso |
-| **[Toradamus](link)** | Resolución de acertijos matemáticos con Python | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python) ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square) | ✅ Completo |
+| **[Toradamus](https://github.com/LuisJRubioH/Toradamus-Juego-De-Prediccion-Matematica)** | Resolución de acertijos matemáticos con Python | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python) ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square) | ✅ Completo |
 
 
 ## 📌 Actividad Reciente

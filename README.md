@@ -72,26 +72,41 @@
 
 ## 📌 Actividad Reciente
 
-<!--RECENT_ACTIVITY:start-->
 
-<!--RECENT_ACTIVITY:end-->
-<!--RECENT_ACTIVITY:last_update-->
-
-<!--RECENT_ACTIVITY:last_update_end-->
 ![](https://github-readme-activity-graph.vercel.app/graph?username=Ori-G-A&theme=react-dark&day=90)
 
 
 
 ## 📊 Estadísticas de GitHub
 
+<!--- stats & Trophy (start) -->
+<p align="center">
+  <!--- stats (start) -->
+<table align="center">
+<tr border="none">
+<td width="50%" align="center">
+  
+  ![](https://github-readme-stats.vercel.app/api?username=Ori-G-A&show_icons=true&theme=midnight-purple&card_width=200&?count_private=true&locale=es)
+  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ori-G-A&show_icons=true&theme=midnight-purple&layout=compact&?count_private=true&locale=es)
+  ![](https://github-readme-streak-stats.herokuapp.com?user=Ori-G-A&theme=buefy-dark&count_private=true&locale=es)
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ori-G-A&theme=tokyonight) 
+</td>
 
+<td width="50%" align="center">
+
+  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Ori-G-A&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+  
+  </td>
+</tr>
+</table>
+<!--- stats (end) -->
+
+<div align="center">
+ 
  ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ori-G-A&theme=tokyonight) 
+ 
+</div>
 
-
-![](https://github-readme-stats.vercel.app/api?username=Ori-G-A&show_icons=true&theme=midnight-purple&card_width=200&?count_private=true&locale=es)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ori-G-A&show_icons=true&theme=midnight-purple&layout=compact&?count_private=true&locale=es)
-![](https://github-readme-streak-stats.herokuapp.com?user=Ori-G-A&theme=buefy-dark&count_private=true&locale=es)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ori-G-A&theme=tokyonight) 
 
 
 ---

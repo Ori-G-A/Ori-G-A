@@ -72,10 +72,11 @@
 
 ## 📌 Actividad Reciente
 
-
 <!--RECENT_ACTIVITY:start-->
+
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
+
 <!--RECENT_ACTIVITY:last_update_end-->
 ![](https://github-readme-activity-graph.vercel.app/graph?username=Ori-G-A&theme=react-dark&day=90)
 

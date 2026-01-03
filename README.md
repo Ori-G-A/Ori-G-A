@@ -40,27 +40,6 @@
 ![Transformers](https://img.shields.io/badge/🤗_Transformers-FFD21E?style=for-the-badge)
 
 
-
-## 📈 Áreas de Conocimiento
-
-### Matemáticas
-- Análisis Matemático y Cálculo Avanzado
-- Álgebra Lineal Aplicada
-- Teoría de Probabilidades
-- Estadística Matemática e Inferencial
-
-### Ciencia de Datos
-- **Machine Learning**: Modelos supervisados y no supervisados
-- **Análisis Estadístico**: Modelado con R
-- **Visualización**: Power BI, Matplotlib, Seaborn
-- **Procesamiento de Datos**: Pandas, NumPy
-- **Bases de Datos**: SQL, consultas y optimización
-
-### Áreas de Interés Actual
-- **Large Language Models (LLMs)**: Fundamentos y arquitecturas Transformer
-- **Deep Learning**: Redes neuronales profundas
-
-
 ## 🚀 Proyectos Destacados
 
 | Proyecto | Descripción | Stack Principal | Estado |
